@@ -1,0 +1,8 @@
+
+
+Tipo = 0 0 1
+Clase = 0 1 0
+ID = no usar en tp
+*Universal = selector pesado,cada match es especifico
+!important = no usar tp, cambia la propiedad
+

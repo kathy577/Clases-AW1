@@ -12,7 +12,7 @@ selector{
 
 /* Selectores de TIPO */
 body{
-    background-color: aqua;
+    background-color: #ffff;
 }
 header{
     background-color: rgb(49, 25, 25);
@@ -29,7 +29,7 @@ a{
 
 /* Cabecera */
 .cabecera-principal{
-    background-color: #e9f79b;
+    background-color: #999999;
 }
 .cabecera-principal nav a{
     color: #999999;
@@ -37,10 +37,10 @@ a{
 
 /* contenido principal */
 .contenido-principal{
-    background-color: #a5ffe4;
+    background-color: transparent;
 }
 
 /* pie principal */
 .pie-principal{
-    background-color: #e9f79b;
+    background-color: #999999;
 }
